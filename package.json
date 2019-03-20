@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "name": "prime-number-testing",
+  "devDependencies": {
+    "jest": "*"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch:": "jest --watch"
+  }
+}
